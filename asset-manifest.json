@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myriambozakraft/react-deploy.git/static/css/main.073c9b0a.css",
+    "main.js": "/myriambozakraft/react-deploy.git/static/js/main.51421cde.js",
+    "static/js/787.d6cb1aba.chunk.js": "/myriambozakraft/react-deploy.git/static/js/787.d6cb1aba.chunk.js",
+    "index.html": "/myriambozakraft/react-deploy.git/index.html",
+    "main.073c9b0a.css.map": "/myriambozakraft/react-deploy.git/static/css/main.073c9b0a.css.map",
+    "main.51421cde.js.map": "/myriambozakraft/react-deploy.git/static/js/main.51421cde.js.map",
+    "787.d6cb1aba.chunk.js.map": "/myriambozakraft/react-deploy.git/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.51421cde.js"
+  ]
+}
